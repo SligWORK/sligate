@@ -28,27 +28,27 @@
 
 <table>
   <tr>
-    <td width="40"><img src="assets/ic-subs.png" width="40" alt="Подписки"></td>
+    <td width="66"><img src="assets/ic-subs.png" width="40" alt="Подписки"></td>
     <td><b>Подписки любых сервисов</b><br>Remnawave, Marzban, 3x-ui и другие панели. Несколько подписок, переключение в один клик.</td>
   </tr>
   <tr>
-    <td width="40"><img src="assets/ic-auto.png" width="40" alt="Пинг"></td>
+    <td width="66"><img src="assets/ic-auto.png" width="40" alt="Пинг"></td>
     <td><b>Автовыбор и честный пинг</b><br>Самый быстрый сервер, пинг через сам сервер, неработающие помечены «недоступна».</td>
   </tr>
   <tr>
-    <td width="40"><img src="assets/ic-traffic.png" width="40" alt="Трафик"></td>
+    <td width="66"><img src="assets/ic-traffic.png" width="40" alt="Трафик"></td>
     <td><b>Прокси или весь трафик</b><br>Компьютеры: прокси или «Весь трафик» для всех программ и игр. Телефоны и ТВ: весь трафик.</td>
   </tr>
   <tr>
-    <td width="40"><img src="assets/ic-update.png" width="40" alt="Обновления"></td>
+    <td width="66"><img src="assets/ic-update.png" width="40" alt="Обновления"></td>
     <td><b>Обновляется сам</b><br>Компьютеры: скачивает новую версию и проверяет подпись. Android: предлагает скачать.</td>
   </tr>
   <tr>
-    <td width="40"><img src="assets/ic-tv.png" width="40" alt="Телевизор"></td>
+    <td width="66"><img src="assets/ic-tv.png" width="40" alt="Телевизор"></td>
     <td><b>Android TV</b><br>Управление с пульта, подписку можно отправить с телефона по QR-коду.</td>
   </tr>
   <tr>
-    <td width="40"><img src="assets/ic-noserver.png" width="40" alt="Без сервера"></td>
+    <td width="66"><img src="assets/ic-noserver.png" width="40" alt="Без сервера"></td>
     <td><b>Режим «Без сервера» (только Windows)</b><br>YouTube и Discord напрямую, без сервера и без подписки, бесплатно.</td>
   </tr>
 </table>
