@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://github.com/SligWORK/sligate/releases/latest"><img src="https://img.shields.io/github/v/release/SligWORK/sligate?style=flat-square&label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&color=0e7c80&labelColor=0d1a1d" alt="Последняя версия"></a>
   <a href="#платформы"><img src="https://img.shields.io/badge/Windows%20%C2%B7%20Linux%20%C2%B7%20Android%20%C2%B7%20Android%20TV-0e7c80?style=flat-square" alt="Платформы: Windows, Linux, Android, Android TV"></a>
-  <a href="https://github.com/SligWORK/sligate/releases/latest"><img src="https://img.shields.io/badge/%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE-0e7c80?style=flat-square" alt="Бесплатно"></a>
 </p>
 
 <p align="center">
@@ -49,7 +48,7 @@
   </tr>
   <tr>
     <td width="66"><img src="assets/ic-noserver.png" width="40" alt="Без сервера"></td>
-    <td><b>Режим «Без сервера» (только Windows)</b><br>YouTube и Discord напрямую, без сервера и без подписки, бесплатно.</td>
+    <td><b>Режим «Без сервера» (только Windows)</b><br>YouTube и Discord напрямую, без сервера и без подписки.</td>
   </tr>
 </table>
 
@@ -85,7 +84,7 @@
 <details>
 <summary><b>Режим «Без сервера» (только Windows)</b></summary>
 
-YouTube и Discord напрямую, без сервера и без подписки, бесплатно. Файлы режима, около 7 МБ, скачиваются при первом включении. Telegram работает в приложении для компьютера, пока открыт Sligate. Звонки в Telegram режим не чинит, а перед игрой с античитом его нужно выключить.
+YouTube и Discord напрямую, без сервера и без подписки. Файлы режима, около 7 МБ, скачиваются при первом включении. Telegram работает в приложении для компьютера, пока открыт Sligate. Звонки в Telegram режим не чинит, а перед игрой с античитом его нужно выключить.
 
 </details>
 
